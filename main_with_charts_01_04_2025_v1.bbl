@@ -1,0 +1,853 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{cms/global/}
+  \entry{berners-lee-2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BLM}{%
+         family={Berners-Lee},
+         familyi={B\bibinitperiod-L\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLM1}
+    \strng{fullhash}{BLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \field{howpublished}{\url{https://www.theguardian.com/environment/2010/jun/08/carbon-footprint-cycling}}
+    \field{title}{What's the carbon footprint of ... cycling a mile?}
+    \field{journaltitle}{The Guardian}
+    \field{month}{06}
+    \field{year}{2010}
+  \endentry
+
+  \entry{ecf2011}{booklet}{}
+    \name{author}{3}{}{%
+      {{hash=BB}{%
+         family={Blondel},
+         familyi={B\bibinitperiod},
+         given={Benoît},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mispelon},
+         familyi={M\bibinitperiod},
+         given={Chloé},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Ferguson},
+         familyi={F\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBMCFJ1}
+    \strng{fullhash}{BBMCFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \field{howpublished}{\url{https://ecf.com/news-and-events/news/how-much-co2-does-cycling-really-save}}
+    \field{title}{Cycle more Often 2 cool down the planet! Quantifying CO2
+  savings of cycling How much CO2 does Cycling really Save?}
+    \list{location}{1}{%
+      {European Cyclists’ Federation ASBL Rue Franklin 28 B-1000 Brussels}%
+    }
+    \field{month}{11}
+    \field{year}{2011}
+  \endentry
+
+  \entry{body-measurements}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CDC},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{howpublished}{\url{https://www.cdc.gov/nchs/fastats/body-measurements.htm}}
+    \field{title}{Body Measurements}
+    \list{institution}{1}{%
+      {CDC/National Center for Health Statistics}%
+    }
+    \field{month}{01}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Crippa2021}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CM}{%
+         family={Crippa},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Solazzo},
+         familyi={S\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guizzardi},
+         familyi={G\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MFF}{%
+         family={Monforti-Ferrario},
+         familyi={M\bibinitperiod-F\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TFN}{%
+         family={Tubiello},
+         familyi={T\bibinitperiod},
+         given={F.\bibnamedelima N.},
+         giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Leip},
+         familyi={L\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM+1}
+    \strng{fullhash}{CMSEGDMFFTFNLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{howpublished}{\url{https://doi.org/10.1038/s43016-021-00225-9}}
+    \field{pages}{198\bibrangedash 209}
+    \field{title}{Food systems are responsible for a third of global
+  anthropogenic GHG emissions}
+    \field{journaltitle}{Nature Food}
+    \field{month}{03}
+    \field{year}{2021}
+  \endentry
+
+  \entry{thorpe-keith_2016}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=whfDKDT}{%
+         prefix={with help\bibnamedelima from},
+         prefixi={w\bibinitperiod\bibinitdelim h\bibinitperiod\bibinitdelim
+  f\bibinitperiod},
+         family={David\bibnamedelima Keith},
+         familyi={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Daniel\bibnamedelima Thorpe},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DKDTwhf1}
+    \strng{fullhash}{DKDTwhf1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+  \field{howpublished}{\url{https://keith.seas.harvard.edu/blog/climate-impacts-biking-vs-driving}}
+    \field{title}{Climate Impacts of Biking vs. Driving}
+    \list{location}{1}{%
+      {David Keith's research group 12 Oxford Street Cambridge MA 02138}%
+    }
+    \field{month}{06}
+    \field{year}{2016}
+  \endentry
+
+  \entry{cycling-efficiency-review}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EG}{%
+         family={Ettema},
+         familyi={E\bibinitperiod},
+         given={Gertjan},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LHW}{%
+         family={Lorås},
+         familyi={L\bibinitperiod},
+         given={Håvard\bibnamedelima Wuttudal},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EGLHW1}
+    \strng{fullhash}{EGLHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{pages}{1–14}
+    \field{title}{Efficiency in cycling: a review}
+    \field{volume}{106}
+    \field{journaltitle}{European Journal of Applied Physiology}
+    \field{year}{2009}
+  \endentry
+
+  \entry{efficiency-young-old}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GGA}{%
+         family={Gaesser},
+         familyi={G\bibinitperiod},
+         given={Glenn\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TWJ}{%
+         family={Tucker},
+         familyi={T\bibinitperiod},
+         given={Wesley\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SBJ}{%
+         family={Sawyer},
+         familyi={S\bibinitperiod},
+         given={Brandon\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BDM}{%
+         family={Bhammar},
+         familyi={B\bibinitperiod},
+         given={Dharini\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AXSS}{%
+         family={Angadi},
+         familyi={A\bibinitperiod},
+         given={X\bibnamedelima Siddhartha\bibnamedelima S.},
+         giveni={X\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGA+1}
+    \strng{fullhash}{GGATWJSBJBDMAXSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{414–420}
+    \field{title}{Cycling efficiency and energy cost of walking in young and
+  older adults}
+    \field{volume}{124}
+    \field{journaltitle}{Journal of Applied Physiology}
+    \field{month}{11}
+    \field{year}{2018}
+  \endentry
+
+  \entry{greenhouse-gas-reporting-conversion-factors-2019}{report}{}
+    \name{author}{8}{}{%
+      {{hash=HN}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Nikolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Karagianni},
+         familyi={K\bibinitperiod},
+         given={Eirini},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={MacCarthy},
+         familyi={M\bibinitperiod},
+         given={Joanne},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Bonifazi},
+         familyi={B\bibinitperiod},
+         given={Eugenia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Sam},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={Billy},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HN+1}
+    \strng{fullhash}{HNKEJLMJBEHSWCHB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+  \field{howpublished}{\url{https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019}}
+    \field{title}{Greenhouse gas reporting: conversion factors 2019}
+    \list{institution}{2}{%
+      {Department for Business Energy}%
+      {Industrial Strategy}%
+    }
+    \field{type}{techreport}
+    \field{month}{06}
+    \field{year}{2019}
+  \endentry
+
+  \entry{holland2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HSP}{%
+         family={Holland},
+         familyi={H\bibinitperiod},
+         given={Stephen\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MET}{%
+         family={Mansur},
+         familyi={M\bibinitperiod},
+         given={Erin\bibnamedelima T.},
+         giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MNZ}{%
+         family={Muller},
+         familyi={M\bibinitperiod},
+         given={Nicholas\bibnamedelima Z.},
+         giveni={N\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=YAJ}{%
+         family={Yates},
+         familyi={Y\bibinitperiod},
+         given={Andrew\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSP+1}
+    \strng{fullhash}{HSPMETMNZYAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{3700\bibrangedash 3729}
+    \field{title}{Are There Environmental Benefits from Driving Electric
+  Vehicles? The Importance of Local Factors}
+    \field{volume}{106}
+    \field{journaltitle}{American Economic Review}
+    \field{month}{12}
+    \field{year}{2016}
+  \endentry
+
+  \entry{delta-cyc-1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KEBAPHGDG}{%
+         family={K\bibnamedelima E\bibnamedelima Bijker},
+         familyi={K\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+         suffix={G\bibnamedelima De\bibnamedelima Groot},
+         suffixi={G\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={A\bibnamedelima P\bibnamedelima Hollander},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KEBGDGAPH1}
+    \strng{fullhash}{KEBGDGAPH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{33(9)}
+    \field{pages}{1546\bibrangedash 51}
+    \field{title}{Delta efficiencies of running and cycling}
+    \field{journaltitle}{Med Sci Sports Exerc}
+    \field{month}{09}
+    \field{year}{2001}
+  \endentry
+
+  \entry{klenert2023meat}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KD}{%
+         family={Klenert},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FF}{%
+         family={Funke},
+         familyi={F\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Ming},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{KDFFCM1}
+    \strng{fullhash}{KDFFCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1038/s43016-023-00849-z
+    \endverb
+    \field{number}{10}
+    \field{pages}{894\bibrangedash 901}
+    \field{title}{Meat taxes in Europe can be designed to avoid overburdening
+  low-income consumers}
+    \verb{url}
+    \verb https://www.nature.com/articles/s43016-023-00849-z
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{Nature Food}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Mizdrak2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MA}{%
+         family={Mizdrak},
+         familyi={M\bibinitperiod},
+         given={Anja},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Cobiac},
+         familyi={C\bibinitperiod},
+         given={Linda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cleghorn},
+         familyi={C\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Woodward},
+         familyi={W\bibinitperiod},
+         given={Alistair},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Blakely},
+         familyi={B\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA+1}
+    \strng{fullhash}{MACLCCWABT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{9196}
+    \field{title}{Fuelling walking and cycling: human powered locomotion is
+  associated with non-negligible greenhouse gas emissions.}
+    \field{volume}{10}
+    \field{journaltitle}{Scientific Reports}
+    \field{month}{06}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Neuenschwander2023}{article}{}
+    \name{author}{8}{}{%
+      {{hash=NM}{%
+         family={Neuenschwander},
+         familyi={N\bibinitperiod},
+         given={Manuela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stadelmaier},
+         familyi={S\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eble},
+         familyi={E\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Grummich},
+         familyi={G\bibinitperiod},
+         given={Kathrin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Szczerba},
+         familyi={S\bibinitperiod},
+         given={Edyta},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Kiesswetter},
+         familyi={K\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schlesinger},
+         familyi={S\bibinitperiod},
+         given={Sabrina},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Schwingshackl},
+         familyi={S\bibinitperiod},
+         given={Lukas},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NM+1}
+    \strng{fullhash}{NMSJEJGKSEKESSSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    There is growing evidence that substituting animal-based with plant-based
+  foods is associated with a lower risk of cardiovascular diseases (CVD), type
+  2 diabetes (T2D), and all-cause mortality. Our aim was to summarize and
+  evaluate the evidence for the substitution of any animal-based foods with
+  plant-based foods on cardiometabolic health and all-cause mortality in a
+  systematic review and meta-analysis.%
+    }
+    \verb{doi}
+    \verb 10.1186/s12916-023-03093-1
+    \endverb
+    \field{issn}{1741-7015}
+    \field{number}{1}
+    \field{pages}{404}
+    \field{title}{Substitution of animal-based with plant-based foods on
+  cardiometabolic health and all-cause mortality: a systematic review and
+  meta-analysis of prospective studies}
+    \verb{url}
+    \verb https://doi.org/10.1186/s12916-023-03093-1
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{BMC Medicine}
+    \field{month}{11}
+    \field{year}{2023}
+  \endentry
+
+  \entry{poore-nemecek-2018}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PJ}{%
+         family={Poore},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nemecek},
+         familyi={N\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJNT1}
+    \strng{fullhash}{PJNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{issue}{6392}
+    \field{pages}{987\bibrangedash 992}
+    \field{title}{Reducing food’s environmental impacts through producers and
+  consumers}
+    \field{journaltitle}{Science}
+    \field{month}{06}
+    \field{year}{2018}
+  \endentry
+
+  \entry{carbon-footprint-food-methane}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RH}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RH1}
+    \strng{fullhash}{RH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{extrayear}{1}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+  \field{howpublished}{\url{https://ourworldindata.org/grapher/ghg-kcal-poore}}
+    \field{title}{The carbon footprint of foods: are differences explained by
+  the impacts of methane?}
+    \field{month}{03}
+    \field{year}{2020}
+  \endentry
+
+  \entry{travel-carbon-footprint}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RH}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RH1}
+    \strng{fullhash}{RH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{extrayear}{2}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+  \field{howpublished}{\url{https://ourworldindata.org/travel-carbon-footprint}}
+    \field{title}{Which form of transport has the smallest carbon footprint?}
+    \field{month}{10}
+    \field{year}{2020}
+  \endentry
+
+  \entry{owidenvironmentalimpactsoffood}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=RH}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Roser},
+         familyi={R\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RHRM1}
+    \strng{fullhash}{RHRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+  \field{howpublished}{\url{https://ourworldindata.org/environmental-impacts-of-food}}
+    \field{title}{Environmental impacts of food production}
+    \field{journaltitle}{Our World in Data}
+    \field{year}{2020}
+  \endentry
+
+  \entry{land-use}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=RH}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Roser},
+         familyi={R\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RHRM1}
+    \strng{fullhash}{RHRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{howpublished}{\url{https://ourworldindata.org/land-use}}
+    \field{title}{Land Use}
+    \field{journaltitle}{Our World in Data}
+    \field{year}{2019}
+  \endentry
+
+  \entry{wake-forrest-mets}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Jim},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{ACSM Metabolic Calculations}
+    \list{location}{1}{%
+      {Wake Forest University}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{lance-2005}{report}{}
+    \name{author}{1}{}{%
+      {{hash=SK}{%
+         family={Sharpe},
+         familyi={S\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SK1}
+    \strng{fullhash}{SK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Report on Lance Armstrong's Cycling Efficiency}
+    \list{location}{2}{%
+      {Department of Mathematics}%
+      {Statistics University of Melbourne Victoria 3010 Australia}%
+    }
+    \field{month}{11}
+    \field{year}{2005}
+  \endentry
+
+  \entry{yeh2017}{article}{}
+    \name{author}{8}{}{%
+      {{hash=YS}{%
+         family={Yeh},
+         familyi={Y\bibinitperiod},
+         given={Sonia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Ghandi},
+         familyi={G\bibinitperiod},
+         given={Abbas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SBR}{%
+         family={Scanlon},
+         familyi={S\bibinitperiod},
+         given={Bridget\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BAR}{%
+         family={Brandt},
+         familyi={B\bibinitperiod},
+         given={Adam\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WMQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima Q.},
+         giveni={M\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Vafi},
+         familyi={V\bibinitperiod},
+         given={Kourosh},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RRC}{%
+         family={Reedy},
+         familyi={R\bibinitperiod},
+         given={Robert\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YS+1}
+    \strng{fullhash}{YSGASBRBARCHWMQVKRRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{pages}{1440\bibrangedash 1449}
+    \field{title}{Energy Intensity and Greenhouse Gas Emissions from Oil
+  Production in the Eagle Ford Shale}
+    \field{volume}{31}
+    \field{month}{01}
+    \field{year}{2017}
+  \endentry
+
+  \entry{bike-calculator}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ZW}{%
+         family={Zorn},
+         familyi={Z\bibinitperiod},
+         given={Walter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZW1}
+    \strng{fullhash}{ZW1}
+    \field{labelnamesource}{author}
+    \field{labelyear}{2009}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{howpublished}{\url{http://kreuzotter.de/english/espeed.htm}}
+    \field{year}{2009}
+  \endentry
+\endsortlist
+\endinput
